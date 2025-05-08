@@ -36,9 +36,8 @@ This script performs basic reconnaissance on a given IP address or domain. It pr
 
 For example:
 ```bash
-./infos_ip.sh github.com
-
-```bash
 ./infos_ip.sh 1.1.1.1
+```bash
+
 
 ![Screenshot 2025-05-08 at 6 22 34 PM](https://github.com/user-attachments/assets/35934995-38dd-4bc3-99e9-58ba9ad2c03f)
