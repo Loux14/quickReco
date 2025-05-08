@@ -24,17 +24,17 @@ This script performs basic reconnaissance on a given IP address or domain. It pr
 ## Usage
 
 1. Clone
-2. Open a terminal
-3. Make the script executable (if not already):
+2. Open terminal
+3. Make script executable:
     ```bash
     chmod +x quickReco.sh
     ```
-4. Run the script with the IP address or domain as an argument:
+4. Run script with IP address or domain as argument:
     ```bash
     ./quickReco.sh <ip_or_domain>
     ```
 
-For example:
+example:
 ```bash
 ./quickReco.sh 1.1.1.1
 ```
