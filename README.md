@@ -27,16 +27,16 @@ This script performs basic reconnaissance on a given IP address or domain. It pr
 2. Open a terminal
 3. Make the script executable (if not already):
     ```bash
-    chmod +x infos_ip.sh
+    chmod +x quickReco.sh
     ```
 4. Run the script with the IP address or domain as an argument:
     ```bash
-    ./infos_ip.sh <ip_or_domain>
+    ./quickReco.sh <ip_or_domain>
     ```
 
 For example:
 ```bash
-./infos_ip.sh 1.1.1.1
+./quickReco.sh 1.1.1.1
 ```
 
 ![Screenshot 2025-05-08 at 6 22 34 PM](https://github.com/user-attachments/assets/35934995-38dd-4bc3-99e9-58ba9ad2c03f)
