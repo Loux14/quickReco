@@ -1,5 +1,5 @@
 # quickReco
-# Network Reconnaissance Script
+# Reconnaissance Script
 
 ## Description
 
